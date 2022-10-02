@@ -1,5 +1,7 @@
 <template>
-  
+  <div class="container mx-auto">
+    <TodosList class="mx-36" />
+  </div>
 </template>
 
 <script lang="ts">
