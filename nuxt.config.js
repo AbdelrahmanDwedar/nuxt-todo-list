@@ -8,7 +8,8 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'This app is a test for Nuxt, a simple todo list' },
+      { hid: 'keywords', name: 'keywords', content: 'nuxt, todo, list, todo list, vue, vuejs, nuxtjs, ssr, frontend frameworks, frontend, framework' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
