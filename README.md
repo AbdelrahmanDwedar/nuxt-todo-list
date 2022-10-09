@@ -11,6 +11,6 @@ It's inspired by [HabitNow](https://play.google.com/store/apps/details?id=com.ha
 - [Sass](https://sass-lang.com/)
 - [Tailwind css](https://tailwindcss.com/)
 
-## Back-end
-- [Nuxt.js](https://nuxtjs.org/)
-- [MongoDB](https://www.mongodb.com/)
+--- 
+
+<h6 align=center><a href="./LICENSE">Apache License</a></h6>
